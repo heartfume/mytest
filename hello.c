@@ -1,3 +1,5 @@
+/* A test program hosted on git. */
+
 #include<stdio.h>
 int main()
 {
